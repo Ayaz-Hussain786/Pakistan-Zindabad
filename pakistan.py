@@ -1,0 +1,1 @@
+print"(PAKISTAN ZINDABAD")
